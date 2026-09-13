@@ -17,17 +17,22 @@ An Android application for tracking and managing daily expenses.
 
 ## Screenshots
 
-### Home Screen
-
-![Expense Tracker Home Screen](screenshots/home.png)
-
-### Edit Expense
-
-![Edit Expense Screen](screenshots/edit-expense.png)
-
-### Search Transactions
-
-![Search Transactions](screenshots/search.png)
+<table>
+  <tr>
+    <td align="center">
+      <b>Home Screen</b><br>
+      <img src="screenshots/home.png" width="250">
+    </td>
+    <td align="center">
+      <b>Edit Expense</b><br>
+      <img src="screenshots/edit-expense.png" width="250">
+    </td>
+    <td align="center">
+      <b>Search Transactions</b><br>
+      <img src="screenshots/search.png" width="250">
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
